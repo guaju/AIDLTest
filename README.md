@@ -2,7 +2,7 @@
 
 效果图：
 
-
+![效果图](https://github.com/guaju/AIDLTest/blob/master/00.gif)
 
 其实很简单，服务端有一个“败家之眼”的图片，我们要做的是：远程到服务端，然后获得服务端的图片，显示到自己的 ImageView 上边。
 
